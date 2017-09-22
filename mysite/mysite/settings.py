@@ -25,7 +25,7 @@ SECRET_KEY = 'n^!w^!9ablgc9v-1k8np*7ab!09z=l%vxcr#(#j1=c@i6%^wkm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'javiromero.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'javiromero.pythonanywhere.com']
 
 
 # Application definition
